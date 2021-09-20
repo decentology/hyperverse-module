@@ -6,6 +6,8 @@ Please see the Week 3 content (Days 1 & 2) of the finished Fast Floward bootcamp
 
 Here you can find the explanation for the technical implementation of composability on Flow.
 
+**PLEASE NOTE:** *We have changed the term 'Registry' to be 'Hyperverse.' If you see any examples of the term 'Registry' in the week 3 content, it is now named 'Hyperverse.'*
+
 ## Figuring out DappStarter
 
 Please see the Week 2 content (Days 1-4) of the finished Fast Floward bootcamp: https://github.com/decentology/fast-floward-1/tree/main/week2
